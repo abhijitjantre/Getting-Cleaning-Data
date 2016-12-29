@@ -1,5 +1,5 @@
 Getting and Cleaning Data Course Project CodeBook
-
+--------------------------------------------------
 This file describes the variables, the data, and any transformations or work that I have performed to clean up the data.
 
 The site where the data was obtained:
@@ -37,4 +37,4 @@ The run_analysis.R script performs the following steps to clean the data:
 a) Merged Data Set named 'mergeddataset.txt'
 b) Tidy Data set named 'tidydataset'.
 
-© Abhijit Jantre 2014 All Rights reserved.
+© Abhijit Jantre 2016 All Rights reserved.
